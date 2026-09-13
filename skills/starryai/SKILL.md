@@ -1,9 +1,19 @@
 ---
 name: starryai
-description: Work with Starry `.fig` design files and the running Starry editor. Use when asked to inspect, analyze, create, edit, export, or verify a Starry/Figma design.
+description: General Starry CLI and MCP guidance for design work not covered by a focused Starry skill.
 ---
 
 # Starry
+
+Use the focused skills when they match the request:
+
+- `starry-design-create` — create new design content, components, or pages
+- `starry-selection-edit` — make targeted edits to an existing selection
+- `starry-visual-compare` — compare or visually verify output
+- `starry-token-extract` — extract colors, typography, spacing, and variables
+- `starry-fig-migrate` — batch inspect, convert, and validate `.fig`/`.pen` files
+
+This skill remains the fallback for cross-cutting Starry work and general CLI/MCP routing.
 
 Starry provides a CLI and an MCP server for `.fig` design files and the running editor.
 

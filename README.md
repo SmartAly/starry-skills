@@ -18,7 +18,12 @@ bun add -g @starryai/cli @starryai/mcp
 
 | Skill | Description |
 | --- | --- |
-| `starryai` | Use Starry CLI and MCP to inspect, edit, analyze, export, and verify `.fig` design documents. |
+| `starryai` | General Starry CLI/MCP routing for cross-cutting work. |
+| `starry-design-create` | Create design content, components, and pages. |
+| `starry-selection-edit` | Make targeted edits to selected live-canvas nodes. |
+| `starry-visual-compare` | Compare and verify visual output. |
+| `starry-token-extract` | Extract colors, typography, spacing, and variables. |
+| `starry-fig-migrate` | Batch inspect, convert, and validate `.fig`/`.pen` files. |
 
 Published from [SmartAly/starry-skills](https://github.com/SmartAly/starry-skills).
 
