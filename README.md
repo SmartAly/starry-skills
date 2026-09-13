@@ -4,10 +4,8 @@ Agent skills for [Starry](https://github.com/SmartAly/starry), the open-source d
 
 ## Install
 
-Once this directory is published as the `starryai/skills` repository:
-
 ```sh
-npx skills add starryai/skills@starryai
+npx skills add SmartAly/starry-skills@starryai
 ```
 
 The skill expects the Starry CLI and MCP packages:
@@ -22,4 +20,4 @@ bun add -g @starryai/cli @starryai/mcp
 | --- | --- |
 | `starryai` | Use Starry CLI and MCP to inspect, edit, analyze, export, and verify `.fig` design documents. |
 
-This directory is prepared as the source for the standalone `starryai/skills` repository. Do not advertise the install command until that repository is published.
+Published from [SmartAly/starry-skills](https://github.com/SmartAly/starry-skills).
