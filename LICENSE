@@ -1,22 +1,14 @@
-MIT License
+Starry Skill License
+Copyright (c) 2026 SmartAly. All rights reserved.
 
-Copyright (c) 2026 Danila Poyarkov
-Copyright (c) 2026 Starry Team
+This repository contains instructions for using the Starry product. SmartAly
+grants permission to download and use the `starryai` skill with Starry.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+You may not copy, modify, adapt, sublicense, sell, redistribute, mirror, or
+publish this skill or derivative works without prior written permission from
+SmartAly.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This license does not grant any license to Starry source code, trademarks,
+models, services, or other SmartAly intellectual property. The skill is provided
+"as is" without warranties of any kind. To the extent permitted by law,
+SmartAly is not liable for damages arising from use of this skill.
